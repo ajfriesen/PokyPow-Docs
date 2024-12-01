@@ -1,0 +1,6 @@
+site_name: PokyPow Docs
+site_url: https://pokypow.com/docs
+theme:
+  name: material
+extra_javascript:
+  - https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module
